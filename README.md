@@ -2,8 +2,8 @@
 
 ## I build things
 - Mainly resilient high volume distributed systems.
-- I am proud to be a technologist - person interested in technology as a general and not focused on one particular framework.
-- I love to learn new things, that's why I am constantly experimenting with new stacks.
+- I am fascinated by technology as a general and not focused on one particular framework.
+- Hope you find useful some of my experiments with frameworks hosted here.  
 
 <br>
 
