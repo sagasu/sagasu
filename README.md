@@ -1,9 +1,11 @@
 ### Hi there, I'm Matt - aka [sagasu][website] 👋
 
-## I build things
-- Mainly resilient high volume distributed systems.
-- I am fascinated by technology as a general and not focused on one particular framework.
-- Hope you find useful some of my experiments with frameworks hosted here.  
+## I build things 
+- This is a diary of my exploration of various concepts  
+- A **captain's log** 🚀📖
+- I am fascinated by ideas (and technologies that implement them) as a general and not focused on one particular style/paradigm/framework.
+- All of them are build for fun and exploration, please do not look for fully polished top-notch product here.🤓
+- Hope you find useful some of my ideas (micro-projects) hosted here. Stay hungry and happy hacking everyone!👓🧠⚗️  
 
 <br>
 
