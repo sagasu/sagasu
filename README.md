@@ -18,8 +18,8 @@
 [<img align="left" alt="sagasu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!-- [![Analytics](https://ga-beacon.appspot.com/UA-174682064-1/welcome-page)] -->
-<br><br>
-<img align="left" alt="sagasu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagasu&show_icons=true&hide_border=true" />
+<!-- <br><br>
+<img align="left" alt="sagasu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagasu&show_icons=true&hide_border=true" /> -->
 
 
 [website]: http://kuebiko.blogspot.com/
