@@ -1,11 +1,16 @@
 ### Hi there, I'm Matt - aka [sagasu][website] 👋
-
+  
 ## I build things 
 - This is a diary of my exploration thru the world of technology 🚶🗻
 - A **captain's log** 🚀📖
 - I am fascinated by ideas as a general and not focused on one particular style/paradigm/framework.
 - All of them are build for fun and exploration, please do not look for fully polished top-notch product here.🤓
 - Hope you find some of my ideas useful (micro-projects). Stay hungry and happy hacking everyone!👓🧠⚗️  
+
+### I just feed the 🐍 here 😂  
+
+![snake gif](https://github.com/sagasu/sagasu/blob/output/github-contribution-grid-snake.gif)
+
 
 <br>
 
