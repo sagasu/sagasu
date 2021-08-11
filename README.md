@@ -14,7 +14,7 @@
 
 <br>
 
-![My top languages on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=sagasu&hide=xml,css,html)
+![My top languages on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=sagasu&hide=xml,css,html,asp)
 
 ### Connect with me:
 [<img align="left" alt="sagasu blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
