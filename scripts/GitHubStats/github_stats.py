@@ -7,11 +7,9 @@ from typing import Dict, List, Optional, Set, Tuple
 import aiohttp
 import requests
 
-
 ###############################################################################
 # Main Classes
 ###############################################################################
-
 class Queries(object):
     """
     Class with functions to query the GitHub GraphQL (v4) API and the REST (v3)
