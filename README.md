@@ -24,7 +24,7 @@
 [<img align="left" alt="sagasu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sagasu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
   
-  
+
 Gists are [also available](https://gist.github.com/sagasu).
 
 
@@ -35,5 +35,4 @@ Gists are [also available](https://gist.github.com/sagasu).
 
 [website]: http://kuebiko.blogspot.com/
 [twitter]: https://twitter.com/kopijmateusz
-<!-- [instagram]: https://www.instagram.com/shiraberu/ -->
 [linkedin]: https://linkedin.com/in/mateusz-kopij-b579981
