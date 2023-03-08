@@ -17,13 +17,8 @@
 <!-- ![My top languages on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=sagasu&hide=xml,css,html,asp) -->
 ![My top languages on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=sagasu&theme=dark&hide=xml,css,html,asp&layout=compact&langs_count=5&bg_color=101010&hide_title=true)  
 ![Leetcode board](https://leetcode.card.workers.dev/shiraberu?theme=dark&font=baloo&extension=null&border=2&border_radius=8)  
-  
-### Connect with me:
-[<img align="left" alt="sagasu blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sagasu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sagasu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  
-# Gists
+
+### Gists
 [Available on github](https://gist.github.com/sagasu).
 
 
