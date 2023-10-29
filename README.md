@@ -9,8 +9,7 @@
 
 ### I just feed the 🐍 here 😂  
 
-![snake gif](https://github.com/sagasu/sagasu/blob/output/github-contribution-grid-snake-dark.svg)
-
+![snake gif](https://github.com/sagasu/sagasu/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
